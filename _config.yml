@@ -24,7 +24,7 @@ timezone: Europe/London
 title: Mike Bowen                      # the main title
 
 # it will display as the sub-title
-tagline: Programming, keyboards, music and rowing
+tagline: Programming, keyboards and rowing
 
 description: >-                        # used by seo meta and the atom feed
   Programming, keyboards, music and rowing
